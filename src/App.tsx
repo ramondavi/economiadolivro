@@ -264,7 +264,7 @@ const GuideView = ({ progress, completeModule, canAccessAdvanced, setActiveTab }
       id: 'm2', 
       title: 'Bibliodiversidade e a "Revolução Conservadora"', 
       author: 'Jesus; Blotta (2023) / Sereza (2020)',
-      content: 'Sereza (2020), citando Bourdieu, descreve a "revolução conservadora" como a submissão do campo editorial à lógica comercial, onde conglomerados priorizam best-sellers. Jesus; Blotta (2023) complementam com o conceito de bibliodiversidade de Hawthorne, comparando o mercado a um ecossistema: a perda de diversidade de vozes leva à estagnação cultural. O "fair speech" surge como necessidade de justiça na expressão, combatendo o monopólio das ideias.' 
+      content: 'Sereza (2020) descreve a "revolução conservadora" como a submissão do campo editorial à lógica comercial, onde conglomerados priorizam best-sellers. Jesus; Blotta (2023) complementam com o conceito de bibliodiversidade de Hawthorne, comparando o mercado a um ecossistema: a perda de diversidade de vozes leva à estagnação cultural. O "fair speech" surge como necessidade de justiça na expressão, combatendo o monopólio das ideias.' 
     },
     { 
       id: 'm3', 
